@@ -42,6 +42,7 @@ ul {
 @media (max-width: 768px) {
     body {
        background-color: rgba(98, 98, 241, 0.664); 
+       color: #fff;
     }
 
     .profile-image {
